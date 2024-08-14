@@ -1,0 +1,28 @@
+
+
+.col-2{
+    color: whitesmoke;
+    border-radius: 10px;
+}
+.btn-green{
+    background-color: #e685b5;
+    color: white;
+}
+.btn-red{
+    background-color: blueviolet;
+    color: white;
+}
+.footer{
+    background-color: #031633;
+    color: white;
+    text-align: center;
+    padding: 10px 10px;
+    border-radius: 10px;
+    font-size: large;
+}
+.btn-black{
+    background-color: #400323;
+    color: white;
+    border-radius: 10px;
+    padding: 10px 20px;
+}
